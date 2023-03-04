@@ -1,2 +1,2 @@
 # Portfolio 
-https://github.com/AmalAl-Abed/Portfolio
+https://amalal-abed.github.io/Portfolio/
